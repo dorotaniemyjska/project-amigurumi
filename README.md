@@ -2,7 +2,7 @@
 
 #### strona o hobby (hand made).Moja pierwsza strona zrobiona w Boostrap.
 
-####Technologie:
+#### Technologie:
 
 HTML5 CSS BOOTSTRAP JS
 
